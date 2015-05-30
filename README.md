@@ -1,2 +1,0 @@
-# SriniProject
-SampleCodePush
